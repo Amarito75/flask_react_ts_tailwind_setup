@@ -1,8 +1,8 @@
-<img src="https://i.ibb.co/HzRZRcz/logo-readme-1.png" align="right" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Logo_SFR_2014.svg/langfr-100px-Logo_SFR_2014.svg.png" align="right" />
 
-# Setup Flask, React Typescript and Tailwind CSS
+# Portal VMs builder
 
-## Develop fullstack web apps with React Typescript, Flask and Tailwind !🎉
+## Web interface to build VMs 🏗
 #
 
 ### Install dependencies :
@@ -32,6 +32,7 @@
 
 *Config proxy first*
 
+<code>set http_proxy="``http://servername``:port</code>
 
 <code>npm install `<package-name>`</code>
 
@@ -40,7 +41,7 @@
 *Config proxy*
 
 
-<code>pip install `<package-name>`</code>
+<code>pip install --proxy="``http://servername``:port" `<package-name>`</code>
 
 #
 

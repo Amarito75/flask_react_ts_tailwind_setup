@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Logo_SFR_2014.svg/langfr-100px-Logo_SFR_2014.svg.png" align="right" />
+<img src="https://i.ibb.co/HzRZRcz/logo-readme-1.png" align="right" />
 
 # Setup Flask, React Typescript and Tailwind CSS
 
@@ -32,8 +32,6 @@
 
 *Config proxy first*
 
-<code>npm config set proxy "http://
-servername:port/"</code>
 
 <code>npm install `<package-name>`</code>
 
@@ -41,7 +39,6 @@ servername:port/"</code>
 
 *Config proxy*
 
-<code>pip install --proxy="http://vsp-mut-prxy-902.prd.gnp.les800:3128" `<package-name>`</code>
 
 <code>pip install `<package-name>`</code>
 
